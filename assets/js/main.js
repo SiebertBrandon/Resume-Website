@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 jQuery(document).ready(function($) {
 
 
