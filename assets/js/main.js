@@ -24,7 +24,6 @@ jQuery(document).ready(function($) {
     
     
     /* jQuery RSS - https://github.com/sdepold/jquery-rss */
-    
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
@@ -55,11 +54,11 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    GitHubCalendar("#github-graph", "IonicaBizau");
+    GitHubCalendar("#github-graph", "SiebertBrandon");
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "caseyscarborough", selector: "#ghfeed" });
+    GitHubActivity.feed({ username: "SiebertBrandon", selector: "#ghfeed" });
 
 
 });
