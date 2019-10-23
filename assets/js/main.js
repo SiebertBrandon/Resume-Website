@@ -27,7 +27,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
-        "http://feeds.feedburner.com/TechCrunch/startups",
+        "siebertbrandon.wordpress.com",
         
         {
         // how many entries do you want?
